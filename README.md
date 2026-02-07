@@ -39,7 +39,7 @@ The analysis identifies patterns that inform smarter trading strategies based on
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/shireensiddiqui-S/trader-sentiment-analysis>
 cd trader-sentiment-analysis
 ```
 
